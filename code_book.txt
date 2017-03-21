@@ -1,0 +1,70 @@
+subID	                subjective ID
+activities	        activities: walking,  waling upstairs, walking downstairs, sitting, standing and laying
+	                Time notates variables calculated from time domain signals
+TimeBodyAccMeanX	mean and std of body acceleration at three axis
+TimeBodyAccMeanY	
+TimeBodyAccMeanZ	
+TimeBodyAccStdX	
+TimeBodyAccStdY	
+TimeBodyAccStdZ	
+TimeGravityAccMeanX	mean and std of gravity acceleration at three axis
+TimeGravityAccMeanY	
+TimeGravityAccMeanZ	
+TimeGravityAccStdX	
+TimeGravityAccStdY	
+TimeGravityAccStdZ	
+TimeBodyAccJerkMeanX	mean and std of body acceleration jerk movement at three axis
+TimeBodyAccJerkMeanY	
+TimeBodyAccJerkMeanZ	
+TimeBodyAccJerkStdX	
+TimeBodyAccJerkStdY	
+TimeBodyAccJerkStdZ	
+TimeBodyGyroMeanX	mean and std of body gyroscopic measure at three axis
+TimeBodyGyroMeanY	
+TimeBodyGyroMeanZ	
+TimeBodyGyroStdX	
+TimeBodyGyroStdY	
+TimeBodyGyroStdZ	
+TimeBodyGyroJerkMeanX	mean and std of body gyroscopic jerk movement at three axis
+TimeBodyGyroJerkMeanY	
+TimeBodyGyroJerkMeanZ	
+TimeBodyGyroJerkStdX	
+TimeBodyGyroJerkStdY	
+TimeBodyGyroJerkStdZ	
+TimeBodyAccMagMean	mean and std of body acceleration magnitude 
+TimeBodyAccMagStd	
+TimeGravityAccMagMean	mean and std of gravity acceleration magnitude 
+TimeGravityAccMagStd	
+TimeBodyAccJerkMagMean	mean and std of body acceleration jert movement magnitude 
+TimeBodyAccJerkMagStd	
+TimeBodyGyroMagMean	mean and std of body gyroscopic measure magnitude 
+TimeBodyGyroMagStd	
+TimeBodyGyroJerkMagMean	mean and std of body gyroscopic jert movement magnitude 
+TimeBodyGyroJerkMagStd	
+	                Fre notates transformed value from frequency domain signals
+FreBodyAccMeanX	
+FreBodyAccMeanY	
+FreBodyAccMeanZ	
+FreBodyAccStdX	
+FreBodyAccStdY	
+FreBodyAccStdZ	
+FreBodyAccJerkMeanX	
+FreBodyAccJerkMeanY	
+FreBodyAccJerkMeanZ	
+FreBodyAccJerkStdX	
+FreBodyAccJerkStdY	
+FreBodyAccJerkStdZ	
+FreBodyGyroMeanX	
+FreBodyGyroMeanY	
+FreBodyGyroMeanZ	
+FreBodyGyroStdX	
+FreBodyGyroStdY	
+FreBodyGyroStdZ	
+FreBodyAccMagMean	
+FreBodyAccMagStd	
+FreBodyBodyAccJerkMagMean	
+FreBodyBodyAccJerkMagStd	
+FreBodyBodyGyroMagMean	
+FreBodyBodyGyroMagStd	
+FreBodyBodyGyroJerkMagMean	
+FreBodyBodyGyroJerkMagStd	
